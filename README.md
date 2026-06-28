@@ -3,9 +3,11 @@
 
 ## 项目整体分析
 ### 一、项目架构概览
+
 <img width="514" height="641" alt="image" src="https://github.com/user-attachments/assets/4c2decdd-df73-4629-8fda-9d660e4c30db" />
 <img width="774" height="327" alt="image" src="https://github.com/user-attachments/assets/f6eacc5a-24fb-4334-9a84-32d7aeabd34b" />
 <img width="748" height="464" alt="image" src="https://github.com/user-attachments/assets/5190cce4-e017-4175-80d9-84ed2166e8b3" />
+
 ### 四、本项目优缺点 ✅ 优点
 1. 高精度定时
    
@@ -49,7 +51,9 @@
    
    - 虽然管理线程高精度触发，但回调执行时间影响实际效果
    - 线程池满时任务会排队等待
+
 <img width="829" height="346" alt="image" src="https://github.com/user-attachments/assets/d66c2ad3-d1d6-45ff-8639-636addc66a44" />
+
 ### 六、总结
 本项目是一个 专注于 Linux 高精度定时 的轻量级库，适合：
 
