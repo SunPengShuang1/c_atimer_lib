@@ -3,6 +3,9 @@
 
 ## 项目整体分析
 ### 一、项目架构概览
+
+
+
 ┌─────────────────────────────────────────────────────────────────┐
 │                        用户应用程序                              │
 │   atimer_init → atimer_register → atimer_reset/cancel → destroy │
@@ -32,5 +35,7 @@
 │                    Linux 内核层                                  │
 │  timerfd_create → CLOCK_MONOTONIC → epoll_wait → 纳秒级触发     │
 └─────────────────────────────────────────────────────────────────┘
+
+<img width="514" height="641" alt="image" src="https://github.com/user-attachments/assets/4c2decdd-df73-4629-8fda-9d660e4c30db" />
 
 
