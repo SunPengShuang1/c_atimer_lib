@@ -1,7 +1,14 @@
 # c_atimer_lib
 自研LinuxC高精度 异步定时器+线程池
 【适用场景】
-1）
+<img width="795" height="411" alt="父子进程间使用分析1" src="https://github.com/user-attachments/assets/5d9705e4-652c-4080-89ec-8e9e3876e583" />
+<img width="771" height="548" alt="父子进程间使用分析2" src="https://github.com/user-attachments/assets/ed227415-f70f-41c3-b059-73998104d5d8" />
+<img width="777" height="574" alt="父子进程间使用分析3" src="https://github.com/user-attachments/assets/fc37275f-6806-4f05-8550-08cfea6fe1cc" />
+<img width="795" height="514" alt="父子进程间使用分析4" src="https://github.com/user-attachments/assets/11f4aa2f-7cac-4563-a8be-b9de67e5f48e" />
+<img width="773" height="647" alt="父子进程间使用分析5" src="https://github.com/user-attachments/assets/09d8597a-5b70-4e45-b812-d48dcd237061" />
+<img width="774" height="667" alt="父子进程间使用分析6" src="https://github.com/user-attachments/assets/3faa1909-977b-4d82-af40-e32fa5e9f208" />
+<img width="762" height="463" alt="父子进程间使用分析7" src="https://github.com/user-attachments/assets/3e462ff2-d643-4af2-a3a3-fd9941eeed03" />
+
 ## 项目整体分析
 ### 一、项目架构概览
 
